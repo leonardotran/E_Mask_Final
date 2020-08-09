@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00b8ff</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#009688</color>
+
+    <color name="colorPrimaryText">#727272</color>
+    <color name="colorSecondaryText">#A09191</color>
+
+<!--    <color name="colorPrimary">#6BAB43</color>-->
+<!--    <color name="colorPrimaryDark">#388E3C</color>-->
+<!--    <color name="colorAccent">#448AFF</color>-->
+
+<!--    <color name="colorPrimaryText">#212121</color>-->
+<!--    <color name="colorSecondaryText">#757575</color>-->
+    <color name="colorDivider">#BDBDBD</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorNegative">#10B11C</color>
+    <color name="colorPositive">#E53935</color>
+    <color name="colorMayBeInfected">#FFB300</color>
+
+
+    <!-- Light UI colors -->
+    <color name="lt_yellow">#fce18a</color>
+    <color name="lt_orange">#ff726d</color>
+    <color name="lt_purple">#b48def</color>
+    <color name="lt_pink">#f4306d</color>
+</resources>

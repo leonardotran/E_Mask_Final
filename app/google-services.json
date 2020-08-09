@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043104627223",
+    "firebase_url": "https://mask-region.firebaseio.com",
+    "project_id": "mask-region",
+    "storage_bucket": "mask-region.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043104627223:android:657903e1fbe6b31cd43a52",
+        "android_client_info": {
+          "package_name": "com.vietnamese.maskregion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043104627223-1lmd5ou28rts4mtbpphcknts99gfttvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vietnamese.maskregion",
+            "certificate_hash": "8c362cdaba601dec712d96d263e568d4cec1fc8f"
+          }
+        },
+        {
+          "client_id": "1043104627223-uu2v2hfloe5fg99m21sadud7vmnam4hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckUiOZK5PEva_laLAsy7N8_6VNGG-dpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043104627223-uu2v2hfloe5fg99m21sadud7vmnam4hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

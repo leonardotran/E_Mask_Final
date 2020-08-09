@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">E Mask</string>
+    <string name="app_slogan">Keep calm and scanning</string>
+    <string name="app_description">Keep calm and scanning</string>
+    <string name="copyright_text">© 2020 Vietnamese Group. All rights reserved.</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login">Login Activity</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">YOUR_CONSUMER_KEY</string>
+    <string name="twitter_consumer_secret" translatable="false">YOUR_CONSUMER_SECRET</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="map">Map</string>
+    <string name="profile">Profile</string>
+    <string name="title_survey">Survey</string>
+    <string name="title_map">Map</string>
+
+    <string name="navigation_drawer_header_content_description">avartar image</string>
+    <string name="contentDescription">Content Description</string>
+    <string name="ble_not_supported">Bluetooth low energy is not supported</string>
+    <string name="unknown_device">Unknown Device</string>
+    <string name="google_maps_key">AIzaSyAABQXSeuUnJKeH45joCY_nkzNkjP5FlHw</string>
+    <string name="may_be_infected">You may be infected by Covid-19</string>
+
+
+    <string-array name="covid_status">
+        <item>Negative</item>
+        <item>Positive</item>
+    </string-array>
+</resources>
